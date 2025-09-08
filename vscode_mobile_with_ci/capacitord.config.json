@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.vscodemobile",
+  "appName": "VSCode Mobile Scaffold",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,1 @@
+This folder should contain a built Monaco Editor (minified). For development: run `npm i monaco-editor` and copy `node_modules/monaco-editor/min` here or use a CDN.

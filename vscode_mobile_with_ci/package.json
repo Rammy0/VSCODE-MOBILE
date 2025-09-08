@@ -1,0 +1,12 @@
+{
+  "name": "vscode-mobile-scaffold",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server ./www -p 8080",
+    "build": "echo 'Web build is static - use Ionic/Capacitor to package.'"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.39.0"
+  }
+}
